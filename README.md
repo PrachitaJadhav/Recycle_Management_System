@@ -5,6 +5,7 @@ The process of recycling waste materials by connecting individual users with com
 🗂️ Database Design
 
 Tables Included
+
 User 👤 – Stores user info
 Company 🏭 – Stores company info
 Listing 📦 – Items listed by users (Plastic, Metal, Glass, Paper, E-Waste etc.)
@@ -16,6 +17,7 @@ Chat 💬 – User–Company communication
 🌍 Impact
 
 By bridging users and companies, this project:
+
 Reduces waste in landfills
 No middle man pure end to end transactions
 Promotes recycling awareness
