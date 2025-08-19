@@ -4,6 +4,7 @@ The process of recycling waste materials by connecting individual users with com
 
 
 
+
 🗂️ Database Design
 
 Tables Included
@@ -19,6 +20,7 @@ Cart 🛒 – Items selected by users
 Pickup 🚚 – Pickup scheduling between user & company
 
 Chat 💬 – User–Company communication
+
 
 
 
