@@ -34,7 +34,7 @@ Promotes recycling awareness
 
 Encourages sustainable business practices
 
-Creates a circular economy ♻️
+
 
 
 ✨ “Don’t waste it, recycle it!” ♻️
