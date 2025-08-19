@@ -2,6 +2,8 @@
 
 The process of recycling waste materials by connecting individual users with companies that require recyclable resources. The system enables users to scan and list recyclable items, add them to a cart, and schedule pickups with interested companies based on the material type (e.g., plastic, metal, glass, paper, e-waste, etc.).
 
+
+
 🗂️ Database Design
 
 Tables Included
@@ -17,6 +19,7 @@ Cart 🛒 – Items selected by users
 Pickup 🚚 – Pickup scheduling between user & company
 
 Chat 💬 – User–Company communication
+
 
 
 🌍 Impact
